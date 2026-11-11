@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Noman Halai 👋
 
-<!--
-**NomanHalai/NomanHalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I use this space to share projects, experiments, and things I'm learning.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: **add what you're learning**
+- 🛠️ Interested in: **add your interests or technologies**
+- 🤝 Open to collaborating on: **add the kinds of projects you'd like to work on**
+
+## Get in touch
+
+- 📫 Contact me: **add your preferred contact or social link**
+
+Thanks for stopping by!
